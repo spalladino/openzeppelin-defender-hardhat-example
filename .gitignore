@@ -1,0 +1,5 @@
+.env
+.openzeppelin
+node_modules
+artifacts
+cache
